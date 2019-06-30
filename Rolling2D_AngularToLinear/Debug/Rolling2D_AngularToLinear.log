@@ -1,6 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level10\physics-rolling-2d-angulartolinear-mastervs2019\rolling2d_angulartolinear\main.cpp(482): warning C4101: 'angularFrictionalImpulse': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level10\physics-rolling-2d-angulartolinear-mastervs2019\rolling2d_angulartolinear\main.cpp(867): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\profiles\njp2424\desktop\physics\level10\physics-rolling-2d-angulartolinear-mastervs2019\rolling2d_angulartolinear\main.cpp(903): warning C4326: return type of 'main' should be 'int' instead of 'void'
-d:\profiles\njp2424\desktop\physics\level10\physics-rolling-2d-angulartolinear-mastervs2019\rolling2d_angulartolinear\main.cpp(918): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Rolling2D_AngularToLinear.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level10\physics-rolling-2D-AngularToLinear-masterVS2019\Rolling2D_AngularToLinear\Debug\Rolling2D_AngularToLinear.exe
